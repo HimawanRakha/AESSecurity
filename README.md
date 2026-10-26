@@ -8,6 +8,14 @@ session key dari KDC.
 AES dan protokol KDC ditulis sendiri tanpa library kriptografi. Library yang dipakai
 hanya bawaan Python (`socket`, `json`, `threading`, `secrets`, `os`).
 
+
+## Anggota Kelompok
+| NRP       | Nama |
+|-----------|------|
+| 5025241028 | Himawan Rakha Bhadra |
+| 5025241055 | Pradhipta Raja Mahendra |
+
+
 ## Skenario distribusi kunci
 
 ```
