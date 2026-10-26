@@ -5,8 +5,6 @@ Bob: menunggu koneksi dari Alice dan menangani langkah 3-5.
   (4) B -> A : E(Ks, N2)              Bob menantang Alice dengan nonce baru
   (5) A -> B : E(Ks, f(N2))           Bob mengecek jawabannya
 
-Contoh menjalankan:
-  python bob.py --port 6000
 """
 
 import argparse

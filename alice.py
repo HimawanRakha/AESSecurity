@@ -9,8 +9,6 @@ Alice: pihak yang memulai distribusi kunci.
 
 Setelah langkah 5, Alice dan Bob saling berkirim pesan dengan AES memakai Ks.
 
-Contoh menjalankan:
-  python alice.py --kdc 192.168.1.10:5000 --bob 192.168.1.12:6000
 """
 
 import argparse
